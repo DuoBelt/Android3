@@ -69,6 +69,7 @@ public class ActivityLoaderActivity extends Activity {
 		Intent intent1 = new Intent(ActivityLoaderActivity.this, ExplicitlyLoadedActivity.class);
 		// TODO - Start an Activity using that intent and the request code defined above
 		startActivityForResult(intent1, GET_TEXT_REQUEST_CODE);
+		//startActivityForResult(intent, requestCode);
 	}
 
 	// Start a Browser Activity to view a web page or its URL
