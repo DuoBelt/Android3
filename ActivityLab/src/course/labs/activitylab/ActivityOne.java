@@ -9,7 +9,7 @@ import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.TextView;
 
-//Git Test 2
+//Git Test 22
 public class ActivityOne extends Activity {
 	
 	private static final String RESTART_KEY = "restart";
