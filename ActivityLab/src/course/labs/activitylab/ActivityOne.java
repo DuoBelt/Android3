@@ -17,7 +17,7 @@ public class ActivityOne extends Activity {
 	private static final String CREATE_KEY = "create";
 
 	// String for LogCat documentation
-	private final static String TAG = "Lab-ActivityOne";
+	private final static String TAG ="Lab-ActivityOne";
 	
 	// Lifecycle counters
 
