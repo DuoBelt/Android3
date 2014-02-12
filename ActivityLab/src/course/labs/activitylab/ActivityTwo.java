@@ -13,7 +13,7 @@ public class ActivityTwo extends Activity {
 	private static final String RESTART_KEY = "restart";
 	private static final String RESUME_KEY = "resume";
 	private static final String START_KEY = "start";
-	private static final String CREATE_KEY = "create";
+	private static final String CREATE_KEY =  "create";
 
 	// String for LogCat documentation
 	private final static String TAG = "Lab-ActivityTwo";
